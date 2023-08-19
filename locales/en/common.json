@@ -1,0 +1,16 @@
+{
+    "explore": "EXPLORE MORE",
+    "order": "ORDER NOW",
+    "aside":
+    [
+        { "userTitle": "Problem Solver | Full-Stack Developer" },
+        { "userSubtitle": "" },
+        { "residence": "Residence" },
+        { "city": "City" },
+        { "age": "Age" },
+        { "persian": "Passion" },
+        { "english": "English" },
+        { "german": "German" },
+        { "download": "DOWNLOAD CV" }
+    ]
+}

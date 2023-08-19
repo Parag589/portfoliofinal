@@ -1,0 +1,58 @@
+{
+    "menus":
+    [
+        
+    ],
+    "cards":
+    [
+        {
+            "id": 0,
+            "category": "Web",
+            "image": "/images/projects/ecommerce.jpg",
+            "title": "Ecommerce Site using Django",
+            "description": "Django-powered Ecommerce Site - Seamlessly blends robust backend functions, intuitive frontend interface, and secure transactions for ultimate online shopping.",
+            "link": " https://github.com/Parag589/Ecommerce-Application-Django"
+        },
+        {
+            "id": 1,
+            "category": "Web",
+            "image": "/images/projects/codeearn.png",
+            "title": "Code to Earn",
+            "description": "In this project, I made a website that provides crypto tokens to the user after solving coding problems, quizzes, and contests. It provides an NFT to each user while signing in to our project. Basically, the motive of our project is to create an environment where users can earn money while coding. For this purpose, I created our own utility token named Mudra.",
+            "link": "https://code2-earn-alpha.vercel.app/"
+        },
+        {
+            "id": 2,
+            "category": "Web",
+            "image": "/images/projects/chat.png",
+            "title": "Web Chat App",
+            "description": "Introducing our Web Chat Application – a cutting-edge solution for seamless communication. With real-time messaging, multimedia sharing, and an intuitive interface, staying connected has never been easier. Experience modern communication at its finest.",
+            "link": " https://github.com/Parag589/Web-Chat-App"
+        },
+        {
+            "id": 3,
+            "category": "Web",
+            "image": "/images/projects/todo.png",
+            "title": "Todo App",
+            "description": "Discover the Web Todo Application – your ultimate task management solution. Experience effortless organization with an intuitive interface, task prioritization, deadlines, and progress tracking. Stay on top of your commitments seamlessly and boost your productivity with this powerful web-based todo application.",
+            "link": "https://github.com/Parag589/Todo-Ecpress-MongoDB"
+        },
+        {
+            "id": 4,
+            "category": "Graphic",
+            "image": "/images/projects/frontyard.png",
+            "title": "Realestate Website",
+            "description": "I made a fully functional website for a real estate company that gives them the functionality of buying villas, flats, and plots. It shows the needed information to the user like the size of the plot its images and prices, and the interior of flats and villas. ",
+            "link": "https://www.frontyardrealestate.com/"
+        },
+        {
+            "id": 5,
+            "category": "Web",
+            "image": "/images/projects/idcard.jpg",
+            "title": "Web App to Autogenerate ID Card ",
+            "description": "Introducing the Auto Generate ID Card System – a revolutionary solution to streamline ID card creation. With automated data integration, templates, and customization options, effortlessly generate professional ID cards. Enhance efficiency in educational institutions or workplaces, ensuring accuracy and saving time.",
+            "link": "https://printnagri-demo.vercel.app/"
+        }
+        
+    ]
+}

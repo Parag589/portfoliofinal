@@ -1,0 +1,57 @@
+{
+    "typed":
+    [
+        { "desktop": "I am a Problem Solver." },
+        { "web": "I am a Full Stack Developer." },
+        { "restfull": "I am a Software Engineer." },
+        { "games": "I build RESTFUL and GraphQL APIs" },
+        { "cyber": "I build desktop, mobile applications." },
+        
+        { "languages": "I am a Problem Solver." },
+        { "frontend": "I am a Full Stack Developer." },
+        { "backend": "I am a Software Engineer." },
+        { "cross": "I build desktop, mobile applications." }
+    ],
+    "headers":
+    [
+        { "heading": "What do i make and who am i?" },
+        { "customers": "Happy Customers" },
+        { "projects": "Completed Projects" },
+        { "experience": "Published Research Papers" },
+        { "honors": "Skill Certificates" }
+    ],
+    "about":
+    [
+        { "heading": "About me" },
+        { "paragraph": "Greetings, curious minds! This is Parag Agarwal, a driven Software Engineer passionate about crafting innovative digital solutions. My expertise spans web & app development, software architecture, and algorithms, all approached with a focus on efficiency and elegance. Embracing emerging technologies, I merge creativity and logic to build seamless user experiences. Beyond coding, I draw inspiration from music, nature, and sci-fi. Whether you're a fellow coder, tech enthusiast, or curious visitor, I'm excited to share this journey of turning ideas into impactful code and shaping the future one algorithm at a time." },
+        { "fat": "Frameworks and Technologies" }
+    ],
+    "services":
+    [
+        {
+            "title": "Front-End Development",
+            "description": "Front-end web development is the development of the graphical user interface of a website, through the use of HTML, ReactJS and NextJS, so that users can view and interact with the website."
+        },
+        {
+            "title": "Back-End Development",
+            "description": "Back-end development means working on server-side of the software, which focuses on everything you can not see on a website based on NodeJS, DenoJS, NestJS, NextJS and Poco."
+        },
+        {
+            "title": "Cross-Platform Development",
+            "description": "Cross-platform development is the practice of developing software products or services for multiple platforms such as Windows, Linux, macOS, Android, iOS, or software environments based on Electron, React Native and Qt."
+        },
+        {
+            "title": "Game Development",
+            "description": "Game Development is the art of creating games and describes the design, development and release of a game with Unreal, Frostbite and Unity engines. It may involve concept generation, design, build, test and release."
+        },
+        {
+            "title": "Cyber-Security",
+            "description": "In the digital world, our data is secure as long as we know. Most of the hacks that happen are primarily social engineering attacks in which the human psychology is exploited using data that is put up consciously by people on social media."
+        },
+        {
+            "title": "Search Engine Optimization",
+            "description": "Search engine optimization is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO targets unpaid traffic rather than direct traffic or paid traffic."
+        },
+        { "heading": "Keep in mind" }
+    ]
+}

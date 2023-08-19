@@ -1,0 +1,34 @@
+[
+    {
+        "id": 0,
+        "src": "/images/hobbies/hero-discord.png",
+        "title": "Discord",
+        "description": "I came to Discord around 2017. I really like to be best in everything I am there and in Discord I develop the first, best, open-source, persian economy discord-bot, soo it is very enjoyable for me that I am some of the best persian Discord developer.",
+        "width": 200,
+        "height": 200
+    },
+    {
+        "id": 1,
+        "src": "/images/hobbies/ttt.png",
+        "title": "Table Tennis",
+        "description": "Table tennis, or ping pong, played from class 9 onward, is a dynamic indoor sport where players hit a lightweight ball across a table divided by a net. It cultivates agility, coordination, and strategy. From this age, students acquire hand-eye skills for serves, spins, and tactics. The game fosters strategic thinking, sportsmanship, and camaraderie. It's a physically active outlet, promoting well-being in a sedentary era. Starting early also builds lasting social connections.",
+        "width": 300,
+        "height": 300
+    },
+    {
+        "id": 2,
+        "src": "/images/hobbies/hero-instagram.png",
+        "title": "Instagram",
+        "description": "I came to Instagram around 2014 and I always wanted to work in social media, and the same thing happened on Instagram and I started producing content in this community.",
+        "width": 200,
+        "height": 200
+    },
+    {
+        "id": 3,
+        "src": "/images/hobbies/hero-astronaut.png",
+        "title": "Space",
+        "description": "I love learning about space and the universe, and everything connected to it, like quantum physics, which proves a variety of dizzying theories, such as parallel universes, Continuity, singularity, time travel, black holes, and white holes.",
+        "width": 300,
+        "height": 300
+    }
+]

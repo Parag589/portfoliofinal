@@ -1,0 +1,37 @@
+{
+    "skills":
+    [
+        
+    ],
+    "libraries":
+    [
+        {
+            "id": 1,
+            "names": "JS, Python, C++, C, Java, HTML, CSS"
+        },
+        {
+            "id": 2,
+            "names": " Django,React.js, Express, Node.js"
+        },
+        {
+            "id": 3,
+            "names": "Libraries : Redux, React Router"
+        },
+        {
+            "id": 4,
+            "names": "Databases : MongoDB, MySQL"
+        },
+        {
+            "id": 5,
+            "names": "VS Code, Git, Github"
+        },
+        {
+            "id": 6,
+            "names": "Bootstrap, Tailwind CSS"
+        },
+        {
+            "id": 7,
+            "names": "Debugging, Test Cases"
+        }
+    ]
+}

@@ -86,7 +86,7 @@ const Aside = () =>
                     </li>
                     <li className={styles.asideInformationPersonalListItem}>
                         <span>{t('common:aside.4.age')}:</span>
-                        <span>{new Date().getFullYear() - 2000}</span>
+                        <span>{new Date().getFullYear() - 2001}</span>
                     </li>
                 </ul>
 
